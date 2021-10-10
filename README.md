@@ -1,7 +1,7 @@
 # react-project
 
-![Git Expert App](https://github.com/daniapm/react-project/blob/main/react.png)
-Esta es una pequeña pero ilustrativa ilustracion de React
+![Git Expert App](https://github.com/daniapm/react-project/blob/main/demostracion.png)
+Esta es una pequeña pero ilustrativa aplicacion de React
 
 # ¿Conceptos a utilizar?
 
