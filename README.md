@@ -1,23 +1,23 @@
 # react-project
 
 ![Git Expert App](https://github.com/daniapm/react-project/blob/main/demostracion.png)
-Esta es una pequeña pero ilustrativa aplicacion de React
+This is a small but illustrative React application.
 
-# ¿Conceptos a utilizar?
+# ¿Concepts to use?
 
 - Custom Hooks
 
-- Fetch hacia un API
+- Fetch to API
 
-- Comunicación entre componentes
+- Communication between components
 
-- Clases de CSS
+- CSS class
 
-- Animaciones
+- Animations
 
-- Enviar métodos como argumentos
+- Send methods as arguments
 
-- Crear listados
+- Create listings
 
 - keys
 
